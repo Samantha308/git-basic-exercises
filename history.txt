@@ -1,0 +1,1000 @@
+  350  git commit -m 'Mastermind 3'
+  351  git push
+  352  wtc-lms login
+  353  cd Home/Documents/work
+  354  cd Home/Documents/work/
+  355  cd~Home/Documents/work/
+  356  cd~ Documents/work/
+  357  cd ~Documents/work/
+  358  /bin/python3 "/home/user/Documents/work/practice2/004-recursion (1)/tests/test_algos.py"
+  359  /bin/python3 "/home/user/Documents/work/practice2/004-recursion (1)/super_algos.py"
+  360  /bin/python3 /home/user/Documents/work/projects/submission_004-problem/super_algos.py
+  361  wtc-lms login
+  362  wtc=lms login
+  363  wtc-lms login
+  364  /bin/python3 /home/user/Documents/work/projects/submission_004-problem/super_algos.py
+  365  wtc-lms login
+  366  git add .
+  367  git commit -m 'Recursion Submission'
+  368  git push
+  369  wtc-lms grade flaky-rainy-point
+  370  git push
+  371  wtc-lms login
+  372  git push
+  373  git push .
+  374  git commit -m 'Recursion submission'
+  375  git push
+  376  wtc-lms grade flaky-rainy-point
+  377  wtc-lms history flaky-rainy-point
+  378  wtc-lms grade flaky-rainy-point
+  379  verification-trace
+  380  verification trace
+  381  git blame
+  382  git bisect
+  383  git bisect help
+  384  wtc-lms grade flaky-rainy-point
+  385  wtc-lms login
+  386  cd~/Documents/work
+  387  cd ~/Documents/work
+  388  wtc-lms problems
+  389  cd ~Reviews/
+  390  cd ~/Documents/work/Reviews/
+  391  wtc-lms reviews
+  392  sore-nifty-odd-song
+  393  wtc-lms review_details curvy-clear-gamy-news
+  394  wtc-lms accept curvy-clear-gamy-news
+  395  cd ~/Documents/work/
+  396  wtc-lms modules
+  397  wtc-lms topics giant-green-cycle
+  398  wtc-lms problems cold-cheap-coach
+  399  wtc-lms start flaky-rainy-point
+  400  git clone git@gitlab.wethinkco.de:lshabalala023/submission_004-problem.git
+  401  wtc-lms login
+  402  git add .
+  403  git commit -m 'recursion'
+  404  wtc-lms login
+  405  wtc-lms grade flaky-rainy-point
+  406  wtc-lms history flaky-rainy-point
+  407  cd ~/Documents/work/projects/
+  408  wtc-lms modules
+  409  wtc-lms login
+  410  wtc-lms modules
+  411  wtc-lms topics giant-green-cycle
+  412  wtc-lms problems cold-cheap-coach
+  413  code .
+  414  /bin/python3 "/home/user/Videos/toy robot 4- lethu/submission_002-robot-4*/submission_002-robot-4*/robot.py"
+  415  /bin/python3 "/home/user/Videos/toy robot 4- lethu/submission_002-robot-4*/submission_002-robot-4*/robot.py" text
+  416  /bin/python3 "/home/user/Videos/toy robot 4- lethu/submission_002-robot-4*/submission_002-robot-4*/robot.py" turtle
+  417  /bin/python3 "/home/user/Documents/submission_002-robot-4(1)/submission_002-robot-4/robot.py"
+  418  /bin/python3 "/home/user/Documents/submission_002-robot-4(1)/submission_002-robot-4/robot.py" turtle
+  419  /bin/python3 /home/user/Documents/work/projects/submission_005-toy-robot-2/robot.py
+  420  /bin/python3 /home/user/Music/005-robot-tokozo2/005-robot-2/robot.py
+  421  git add .
+  422  git commit -m 'Toy-Robot-2 Submission'
+  423  git push
+  424  wtc-lms login
+  425  wtc-lms grade best-flaky-virus
+  426  wtc-lms history best-flaky-virus
+  427  cd ..
+  428  wtc-lms modules
+  429  wtc-lms topics giant-green-cycle
+  430  wtc-lms problems low-juicy-trash
+  431  wtc-lms start swift-erect-agent
+  432  git clone git@gitlab.wethinkco.de:lshabalala023/submission_001-words.git
+  433  git add .
+  434  git commit -m 'words submission'
+  435  git push
+  436  git grade swift-erect-agent
+  437  wtc-lms grade swift-erect-agent
+  438  wtc-lms history swift-erect-agent
+  439  code..
+  440  code ..
+  441  code .
+  442  cd ..
+  443  wtc-lms problems low-juicy-trash
+  444  wtc-lms start ugly-legal-life
+  445  git clone git@gitlab.wethinkco.de:lshabalala023/submission_002-toy-robot-3.git
+  446  code .
+  447  cd /submission_002-toy-robot-3
+  448  code .
+  449  code .
+  450  touch test_words.py
+  451  code .
+  452  touch test_robot.py
+  453  cd ~/Documents/work/Reviews/
+  454  wtc-lms login
+  455  wtc-lms reviews
+  456  wtc-lms problems
+  457  /bin/python3 /home/user/Documents/work/Reviews/Tot_2/grading_problem_goofy-rigid-yummy-worth/robot.py
+  458  wtc-lms reviews
+  459  wtc-lms add_comment goofy-rigid-yummy-worth  "<< The code demonstrates a well-organized and clear structure with meaningful function names and helpful comments, contributing to its readability.
+  460     The implementation effectively handles user commands for controlling the robot's movement and turning. The inclusion of error checking for invalid inputs enhances the code's robustness.>>
+  461  << Some functions could be further broken down for better modularity and clarity.
+  462     She did not do her unittests for test_robot>>
+  463  <<  the code is well-structured, and the implementation effectively achieves its goal. 
+  464      With minor improvements, such as addressing the recursion issue and enhancing modularity, it could become an even more robust and maintainable solution.>>
+  465  "
+  466  wtc-lms add_comment goofy-rigid-yummy-worth  "<< The code demonstrates a well-organized and clear structure with meaningful function names and helpful comments, contributing to its readability.
+  467     The implementation effectively handles user commands for controlling the robot's movement and turning. The inclusion of error checking for invalid inputs enhances the code's robustness.>>
+  468  << Some functions could be further broken down for better modularity and clarity.
+  469     She did not do her unittests for test_robot>>
+  470  <<  the code is well-structured, and the implementation effectively achieves its goal. 
+  471      With minor improvements, such as addressing the recursion issue and enhancing modularity, it could become an even more robust and maintainable solution.>>
+  472  wtc-lms login
+  473  wtc-lms reviews
+  474  wtc-lms review_details goofy-rigid-yummy-worth
+  475  wtc-lms review_details goofy-rigid-yummy-worth '<< The code demonstrates a well-organized and clear structure with meaningful function names and helpful comments, contributing to its readability.
+  476     The implementation effectively handles user commands for controlling the robot's movement and turning. The inclusion of error checking for 
+  477  wtc-lms review_details
+  478  code .
+  479  wtc-lms login
+  480  git add .
+  481  git commit -m 'Submission Toy-3'
+  482  git push
+  483  git push
+  484  wtc-lms login
+  485  git push
+  486  git push
+  487  git add .
+  488  git commit -m ' second commit'
+  489  git push
+  490  wtc-lms grade ugly-legal-life
+  491  wtc-lms login
+  492  wtc-lms grade ugly-legal-life
+  493  wtc-lms history ugly-legal-life
+  494  wtc-lms grade ugly-legal-life
+  495  /bin/python3 /home/user/Documents/work/projects/submission_002-toy-robot-3/robot.py
+  496  git push
+  497  git add .
+  498  git commit -m 'Toy 3'
+  499  git push
+  500  wtc-lms logi
+  501  .wtc-lms login
+  502  wtc-lms login
+  503  wtc-lms grade ugly-legal-life
+  504  wtc-lms history ugly-legal-life
+  505  git push
+  506  wtc-lms history ugly-legal-life
+  507  code .
+  508  code .
+  509  /bin/python3 /home/user/Documents/work/projects/jhb_21_code_clinics/config/quickstart.py
+  510  pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
+  511  sudo apt install python3-pip
+  512  pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
+  513  cd ~/Stude
+  514  ls
+  515  cd ~/Documents/work/projects/
+  516  git clo git@gitlab.wethinkco.de:jbotha023/jhb_21_code_clinics.git~
+  517  git clone git@gitlab.wethinkco.de:jbotha023/jhb_21_code_clinics.git~
+  518  git clone git@gitlab.wethinkco.de:jbotha023/jhb_21_code_clinics.git
+  519  cd jhb_21_code_clinics/
+  520  code .
+  521  git switch lethu_work
+  522  code .
+  523  wtc-lms login
+  524  git pull origin 
+  525  git add .
+  526  git commit -m 'final toy-3' 
+  527  git push
+  528  wtc-lms grade ugly-legal-life
+  529  wtc-lms history ugly-legal-life
+  530  cd ..
+  531  wtc-lms modules
+  532  wtc-lms topics giant-green-cycle
+  533  wtc-lms problems soft-lazy-job
+  534  wtc-lms start blue-near-cat
+  535  git clone git@gitlab.wethinkco.de:lshabalala023/submission_001-accounting.git
+  536  cd submission_001-accounting/
+  537  code .
+  538  git add .
+  539  git commit -m 'final commit'
+  540  git push
+  541  wtc-lms grade ugly-legal-life
+  542  wtc-lms history ugly-legal-life
+  543  git add .
+  544  git commit -m 'final commit'
+  545  git push
+  546  wtc-lms grade ugly-legal-life
+  547  wtc-lms history ugly-legal-life
+  548  wtc-lms grade ugly-legal-life
+  549  wtc-lms history ugly-legal-life
+  550  wtc-lms verification trace
+  551  wtc-lms trace verification
+  552  help
+  553  wtc-lms verification-trace
+  554  verification trace
+  555  verification-trace
+  556  wtc-lms login
+  557  wtc-lms verification_trace
+  558  wtc-lms verification_trace ugly-legal-life
+  559  git push
+  560  git add .
+  561  git commit -m 'Robot_py'
+  562  git push
+  563  wtc-lms grade ugly-legal-life
+  564  wtc-lms history ugly-legal-life
+  565  wtc-lms verification_trace ugly-legal-life
+  566  wtc-lms history ugly-legal-life
+  567  git push
+  568  wtc-lms grade ugly-legal-life
+  569  wtc-lms history ugly-legal-life
+  570  cd ..
+  571  wtc-lms login
+  572  wtc-lms modules
+  573  wtc-lms topics giant-green-cycle
+  574  wtc-lms problems soft-lazy-job
+  575  wtc-lms start blue-near-cat
+  576  wtc-lms ugly-legal-life
+  577  wtc-lms start ugly-legal-life
+  578  /bin/python3 /home/user/Documents/work/projects/jhb_21_code_clinics/config/quickstart.py
+  579  git pull origin sub_branch 
+  580  git log
+  581  /bin/python3 /home/user/Documents/work/projects/submission_001-accounting/accounting.py
+  582  cd ~/Documents/work/projects/
+  583  git clone git@gitlab.wethinkco.de:lshabalala023/submission_001-accounting.git
+  584  cd submission_001-accounting/
+  585  code .
+  586  /bin/python3 /home/user/Documents/work/projects/jhb_21_code_clinics/src/authentification/user.py
+  587  git pull origin sub_branch 
+  588  git pull origin sub_branch
+  589  /bin/python3 /home/user/Documents/work/projects/jhb_21_code_clinics/src/authentification/user.py
+  590  /bin/python3 /home/user/Documents/work/projects/submission_001-accounting/accounting.py
+  591  /bin/python3 /home/user/Documents/work/projects/submission_001-accounting/tests/test_main.py
+  592  /bin/python3 /home/user/Documents/work/projects/submission_001-accounting/accounting.py
+  593  echo /usr/bin/bash
+  594  /bin/python3 "/home/user/Videos/ac/submission_001-accounting2/submission_001-accounting (1)/accounting.py"
+  595  /bin/python3 "/home/user/Videos/ac/submission_001-accounting2/submission_001-accounting (1)/test_base.py"
+  596  echo /usr/bin/bash
+  597  /bin/python3 /home/user/Documents/work/projects/submission_001-accounting/accounting.py
+  598  sudo apt install python3-pip
+  599  /bin/python3 /home/user/Documents/work/projects/submission_001-accounting/accounting.py
+  600  wtc-lms login
+  601  git add .
+  602  git commit -m " Accounting submission"
+  603  git push
+  604  wtc-lms grade blue-near-cat
+  605  wtc-lms history blue-near-cat
+  606  cd ..
+  607  wtc-lms modules
+  608  wtc-lms topics giant-green-cycle
+  609  wtc-lms problems soft-lazy-job
+  610  wtc-lms start awake-fast-honey
+  611  git clone git@gitlab.wethinkco.de:lshabalala023/submission_002-robot-4.git
+  612  cd submission_002-robot-4/
+  613  code .
+  614  echo /usr/bin/bash
+  615  code .
+  616  echo /usr/bin/bash
+  617  echo /usr/bin/bash
+  618  /bin/python3 /home/user/Documents/work/projects/submission_002-robot-4/robot.py
+  619  /bin/python3 /home/user/Documents/work/projects/submission_002-robot-4/robot.py turtle
+  620  code ,
+  621  code .
+  622  code .
+  623  code .
+  624  /bin/python3 /home/user/Documents/work/projects/jhb_21_code_clinics/src/authentification/user.py
+  625  /bin/python3 /home/user/Documents/work/projects/jhb_21_code_clinics/main.py
+  626  /bin/python3 /home/user/Documents/work/projects/jhb_21_code_clinics/src/authentification/user.py
+  627  /bin/python3 /home/user/Documents/work/projects/jhb_21_code_clinics/main.py
+  628  /bin/python3 /home/user/Documents/work/projects/jhb_21_code_clinics/src/booking_system/make_booking.py
+  629  /bin/python3 /home/user/Documents/work/projects/jhb_21_code_clinics/src/authentification/user.py
+  630  /bin/python3 /home/user/Documents/work/projects/jhb_21_code_clinics/main.py
+  631  echo /usr/bin/bash
+  632  /bin/python3 /home/user/Documents/work/projects/jhb_21_code_clinics/src/booking_system/make_booking.py
+  633  /bin/python3 /home/user/Documents/work/projects/jhb_21_code_clinics/config/quickstart.py
+  634  /bin/python3 /home/user/Documents/work/projects/jhb_21_code_clinics/main.py
+  635  /bin/python3 /home/user/Documents/work/projects/jhb_21_code_clinics/src/booking_system/make_booking.py
+  636  pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
+  637  /bin/python3 /home/user/Documents/work/projects/jhb_21_code_clinics/config/quickstart.py
+  638  /bin/python3 /home/user/Documents/work/projects/jhb_21_code_clinics/src/booking_system/make_booking.py
+  639  /bin/python3 /home/user/Documents/work/projects/jhb_21_code_clinics/main.py
+  640  /bin/python3 /home/user/Documents/work/projects/jhb_21_code_clinics/config/quickstart.py
+  641  /bin/python3 /home/user/Documents/work/projects/jhb_21_code_clinics/main.py
+  642  /bin/python3 /home/user/Documents/work/projects/jhb_21_code_clinics/config/quickstart.py
+  643  /bin/python3 /home/user/Documents/work/projects/jhb_21_code_clinics/main.py
+  644  echo /usr/bin/bash
+  645  /bin/python3 /home/user/Music/submission_002-robot-4/robot.py
+  646  /bin/python3 /home/user/Documents/work/projects/submission_002-robot-4/robot.py
+  647  /bin/python3 /home/user/Documents/work/projects/submission_002-robot-4/world/turtle/world.py
+  648  /bin/python3 /home/user/Documents/work/projects/submission_002-robot-4/robot.py
+  649  /bin/python3 /home/user/Documents/work/projects/submission_002-robot-4/robot.py turtle
+  650  /bin/python3 /home/user/Documents/work/projects/submission_002-robot-4/robot.py
+  651  /bin/python3 /home/user/Documents/work/projects/submission_002-robot-4/robot.py turtle
+  652  /bin/python3 /home/user/Documents/work/projects/submission_002-robot-4/robot.py
+  653  pip install random
+  654  /bin/python3 /home/user/Documents/work/projects/submission_002-robot-4/robot.py text
+  655  /bin/python3 /home/user/Documents/work/projects/submission_002-robot-4/robot.py turtle
+  656  /bin/python3 /home/user/Music/submission_002-robot-4/robot.py
+  657  /bin/python3 /home/user/Music/submission_002-robot-4/robot.py turtle
+  658  /bin/python3 /home/user/Documents/work/projects/submission_002-robot-4/robot.py
+  659  /bin/python3 /home/user/Documents/work/projects/submission_002-robot-4/robot.py turtle
+  660  git add .
+  661  git commit -m 'toy 4'
+  662  git push
+  663  wtc-lms grade awake-fast-honey
+  664  wtc-lms history awake-fast-honey
+  665  git add .
+  666  git commit -m 'toy 4'
+  667  git push
+  668  wtc-lms grade awake-fast-honey
+  669  wtc-lms history awake-fast-honey
+  670  git add .
+  671  git commit -m 'toy 4'
+  672  git push
+  673  wtc-lms grade awake-fast-honey
+  674  wtc-lms history awake-fast-honey
+  675  wtc-lms verification_trace
+  676  wtc-lms verification_trace awake-fast-honey
+  677  sudo apt-get install python3-tk
+  678  git add .
+  679  git commit -m 'toy 4'
+  680  git push
+  681  wtc-lms grade awake-fast-honey
+  682  wtc-lms history awake-fast-honey
+  683  git push
+  684  wtc-lms grade awake-fast-honey
+  685  pip install tkinter
+  686  sudo apt install python3-tk
+  687  git add .
+  688  git commit -m 'toy 4'
+  689  git push
+  690  wtc-lms grade awake-fast-honey
+  691  wtc-lms history awake-fast-honey
+  692  git add .
+  693  git commit -m "Toy-robot-4-Submission"
+  694  git push
+  695  wtc-lms login
+  696  wtc-lms grade awake-fast-honey
+  697  wtc-lms history awake-fast-honey
+  698  verification_trace awake-fast-honey
+  699  verification-trace awake-fast-honey
+  700  verification trace awake-fast-honey
+  701  wtc-lms verification_trace awake-fast-honey
+  702  git add .
+  703  git commit -m "Submission of toy robot 4"
+  704  git push
+  705  git add .
+  706  git commit -m 'Toy robot 4 grading'
+  707  git push
+  708  wtc-lms grade awake-fast-honey
+  709  wtc-lms login
+  710  wtc-lms grade awake-fast-honey
+  711  wtc-lms verification_trace awake-fast-honey
+  712  sudo apt-get install python3-tk
+  713  git add .
+  714  git commit -m 'Toy robot 4 grading'
+  715  git push
+  716  wtc-lms grade awake-fast-honey
+  717  wtc-lms history awake-fast-honey
+  718  wtc-lms verification_trace awake-fast-honey
+  719  /bin/python3 /home/user/Documents/work/projects/submission_002-robot-4/tests/test_main.py
+  720  git add .
+  721  git commit -m "Submission of toy robot 4"
+  722  git push
+  723  wtc-lms grade awake-fast-honey
+  724  wtc-lms history awake-fast-honey
+  725  cd ..
+  726  wtc-lms modules
+  727  wtc-lms topics giant-green-cycle
+  728  wtc-lms problems hurt-messy-quiet
+  729  wtc-lms start near-wiry-clue
+  730  git clone git@gitlab.wethinkco.de:lshabalala023/submission_001-bugfixer.git
+  731  cd submission_001-bugfixer/
+  732  code .
+  733  cd submission_001-bugfixer/
+  734  git add .
+  735  git commit -m 'added code to troll_hunter'
+  736  git push
+  737  git grade near-wiry-clue
+  738  wtc-lms grade near-wiry-clue
+  739  wtc-lms history near-wiry-clue
+  740  wtc-lms modules
+  741  wtc-lms topics giant-green-cycle
+  742  wtc-lms problems soft-lazy-job
+  743  wtc-lms start tight-jolly-dare
+  744  cd ..
+  745  git clone git@gitlab.wethinkco.de:lshabalala023/submission_003-robot-5.git
+  746  cd submission_003-robot-5/
+  747  code .
+  748  git checkout sub_branch
+  749  git pull origin sub_branch
+  750  git checkout lethu_work
+  751  git pull origin lethu_branch
+  752  git checkout sub_branch
+  753  git checkout lethu_work
+  754  git pull origin sub_branch
+  755  git checkout sub_branch
+  756  git pull origin sub_branch
+  757  cd ~/Documents/work/projects/
+  758  git clone git@gitlab.wethinkco.de:jbotha023/jhb_21_code_clinics.git
+  759  cd jhb_21_code_clinics/
+  760  code .
+  761  git clone git@gitlab.wethinkco.de:jbotha023/jhb_21_code_clinics.git
+  762  cd jhb_21_code_clinics/
+  763  code .
+  764  install tabulate
+  765  install --help
+  766  sudo apt install tabulate
+  767  pip install tabulate
+  768  update tabulate
+  769  sudo apt update
+  770  git checkout sub_branch
+  771  git pull 
+  772  git checkout lethu_work
+  773  git checkout sub branch
+  774  git checkout sub_branch
+  775  git merge lethu_branch
+  776  git merge lethu_work
+  777  git checkout lethu_work 
+  778  /bin/python3 /home/user/Documents/work/projects/jhb_21_code_clinics/main.py
+  779  A/bin/python3 /home/user/Documents/work/projects/jhb_21_code_clinics/main.py
+  780  /bin/python3 /home/user/Documents/work/projects/jhb_21_code_clinics/main.py
+  781  git pull origin lethu_work
+  782  git checkout sub_branch
+  783  git merge lethu_branch
+  784  git merge lethu_work
+  785  git add .
+  786  git commit -m 'I'm so sorry guys i made a mistake and pushed to sub-branch so now im taking the changes back to so that it can go back to the origin sub_branch.'
+  787  git pull sub_branch
+  788  git pull origin sub_branch
+  789  git checkout sub_branch
+  790  git pull sub_branch
+  791  git pull origin sub_branch
+  792  git checkout lethu_work
+  793  /bin/python3 /home/user/Documents/work/projects/jhb_21_code_clinics/main.py
+  794  yes
+  795  /bin/python3 /home/user/Documents/work/projects/jhb_21_code_clinics/main.py
+  796  /bin/python3 /home/user/Documents/work/projects/jhb_21_code_clinics/tests/test_make_booking.py
+  797  /bin/python3 /home/user/Documents/work/projects/jhb_21_code_clinics/main.py
+  798  wtc-lms login
+  799  wtc-lms start_assessment
+  800  cd ~/problems/assessments/
+  801  cd assessment-rabid-white-solid-dust
+  802  code .
+  803  cd ~/Documents/work/projects/
+  804  git clone git@gitlab.wethinkco.de:jbotha023/jhb_21_code_clinics.git
+  805  git checkout lethu_work
+  806  cd ~/Documents/work/projects/
+  807  git clone git@gitlab.wethinkco.de:jbotha023/jhb_21_code_clinics.git
+  808  cd jhb_21_code_clinics/
+  809  code .
+  810  ls -lrh
+  811  pwd
+  812  ls
+  813  ls /data
+  814  ls /Desktop
+  815  ls /Desktop/
+  816  ls /Desktop
+  817  mkdir new_direc
+  818  ls
+  819  cd Desktop/
+  820  cd/
+  821  cd -
+  822  man cd
+  823  man man
+  824  /bin/python3 "/home/user/Music/CodeClinic_CLI-main(1)/CodeClinic_CLI-main/cc_config/config.py"
+  825  /bin/python3 "/home/user/Music/CodeClinic_CLI-main(1)/CodeClinic_CLI-main/cc_user/user.py"
+  826  /bin/python3 "/home/user/Music/CodeClinic_CLI-main(1)/CodeClinic_CLI-main/simulate_login.py"
+  827  /bin/python3 "/home/user/Music/CodeClinic_CLI-main(1)/CodeClinic_CLI-main/simulate_register.py"
+  828  /bin/python3 "/home/user/Music/CodeClinic_CLI-main(1)/CodeClinic_CLI-main/scrolling.py"
+  829  pip install beautifultable
+  830  /bin/python3 "/home/user/Music/CodeClinic_CLI-main(1)/CodeClinic_CLI-main/cc_calendar/display_calendar.py"
+  831  /bin/python3 /home/user/Documents/work/projects/jhb_21_code_clinics/main.py
+  832  /bin/python3 /home/user/Documents/work/projects/jhb_21_code_clinics/src/booking_system/make_booking.py
+  833  git checkout lethu_work
+  834  git add ,
+  835  git add .
+  836  git commit -m 'Commiting my work bootcamp wtriting assignment to get to know me '
+  837  git push lethu_work
+  838  git push origin lethu_work
+  839  /bin/python3 /home/user/Desktop/umuzi/code_challenge_task1/Lethukuthula-Shabalala-756-contentitem-python/task_1.py
+  840  git add .
+  841  git commit -m 'This is my task_1'
+  842  git ppush
+  843  git push
+  844  git add ,
+  845  git add .
+  846  git commit -m 'Fixing the bugs i had in task1'
+  847  git push
+  848  git branch lethus_work_exploratory_data_analysis
+  849  git checkout lethus_work_exploratory_data_analysis 
+  850  /bin/python3 /home/user/Desktop/umuzi/code_challenge_task2/Lethukuthula-Shabalala-764-contentitem-python/task2.py
+  851  git add .
+  852  git commit -m 'completing task2'
+  853  git push
+  854  cd ~/Desktop/umuzi/Bootcamp\ Exploratory\ Data\ Analysis/
+  855  git@github.com:Umuzi-org/Lethukuthula-Shabalala-648-bootcamp-exploratory-data-analysis-python.git
+  856  git clone git@github.com:Umuzi-org/Lethukuthula-Shabalala-648-bootcamp-exploratory-data-analysis-python.git
+  857  cd Lethukuthula-Shabalala-648-bootcamp-exploratory-data-analysis-python/
+  858  code .
+  859  cd .
+  860  cd ..
+  861  mkdir writing_assignment
+  862  cd writing_assignment/
+  863  git clone git@github.com:Umuzi-org/Lethukuthula-Shabalala-429-bootcamp-writing-assignment-.git
+  864  cd Lethukuthula-Shabalala-429-bootcamp-writing-assignment-/
+  865  code .
+  866  cd ..
+  867  mkdir code_challenge_task1
+  868  cd code_challenge_task1/
+  869  git clone git@github.com:Umuzi-org/Lethukuthula-Shabalala-756-contentitem-python.git
+  870  cd Lethukuthula-Shabalala-756-contentitem-python/
+  871  code .
+  872  cd ..
+  873  mkdir code_challenge_task2
+  874  cd code_challenge_task2
+  875  git clone git@github.com:Umuzi-org/Lethukuthula-Shabalala-764-contentitem-python.git
+  876  cd Lethukuthula-Shabalala-764-contentitem-python/
+  877  code .
+  878  cd ..
+  879  mkdir code_challenge_task3
+  880  cd code_challenge_task3
+  881  git clone git@github.com:Umuzi-org/Lethukuthula-Shabalala-760-contentitem-python.git
+  882  /bin/python3 /home/user/Desktop/umuzi/code_challenge_task3/Lethukuthula-Shabalala-760-contentitem-python/task3.py
+  883  git add .
+  884  git commit -m 'Commiting the changes i made to task3'
+  885  git push
+  886  cd code_challenge_task3
+  887  cd Desktop/umuzi/code_challenge_task3
+  888  git clone git@github.com:Umuzi-org/Lethukuthula-Shabalala-760-contentitem-python.git
+  889  cd Lethukuthula-Shabalala-760-contentitem-python/
+  890  code .
+  891  cd ....
+  892  cd ..
+  893  mkdir code_challenge_task4
+  894  cd code_challenge_task4
+  895  git clone git@github.com:Umuzi-org/Lethukuthula-Shabalala-759-contentitem-python.git
+  896  cd Lethukuthula-Shabalala-759-contentitem-python/
+  897  code .
+  898  /bin/python3 /home/user/Desktop/umuzi/code_challenge_task4/Lethukuthula-Shabalala-759-contentitem-python/task4.py
+  899  git add .
+  900  git commit -m 'Task 4 work completed'
+  901  git push
+  902  /bin/python3 /home/user/Desktop/umuzi/code_challenge_task4/Lethukuthula-Shabalala-759-contentitem-python/task4.py
+  903  git add .
+  904  /bin/python3 /home/user/Desktop/umuzi/code_challenge_task5/Lethukuthula-Shabalala-763-contentitem-python/task5.py
+  905  git add .
+  906  git commit -m "Task/bin/python3 /home/user/Desktop/umuzi/code_challenge_task5/Lethukuthula-Shabalala-763-contentitem-python/task5.py
+  907  /bin/python3 /home/user/Desktop/umuzi/code_challenge_task4/Lethukuthula-Shabalala-759-contentitem-python/task4.py
+  908  /bin/python3 /home/user/Desktop/umuzi/code_challenge_task5/Lethukuthula-Shabalala-763-contentitem-python/task5.py
+  909  git add .
+  910  git commit -m "Task 5 finding max"
+  911  git push
+  912  /bin/python3 /home/user/Desktop/umuzi/code_challenge_task6/Lethukuthula-Shabalala-758-contentitem-python/task6.py
+  913  git add .
+  914  git commit -m 'Task6 submission'
+  915  git push
+  916  /bin/python3 /home/user/Desktop/umuzi/code_challenge_task7/Lethukuthula-Shabalala-765-contentitem-python/task7.py
+  917  git add .
+  918  git commit -m "Add task7 function to convert Celsius to Fahrenheit"
+  919  git push
+  920  pip install counter
+  921  /bin/python3 /home/user/Desktop/umuzi/code_challenge_task9/Lethukuthula-Shabalala-761-contentitem-python/task9.py
+  922  git add .
+  923  git commit -m "Write a function that takes in a string and then returns all the vowels in the string."
+  924  git push
+  925  /bin/python3 /home/user/Desktop/umuzi/code_challenge_task8/Lethukuthula-Shabalala-762-contentitem-python/task8.py
+  926  git add .
+  927  git commit -m "added a function to convert a number representing minutes into hours and minutes"
+  928  git push
+  929  /bin/python3 /home/user/Desktop/umuzi/code_challenge_task8/Lethukuthula-Shabalala-762-contentitem-python/task8.py
+  930  git add .
+  931  git commit -m "Fixingmy code so that it checks task(0) and prints the correct output"
+  932  git push
+  933  /bin/python3 /home/user/Desktop/umuzi/code_challenge_task10/Lethukuthula-Shabalala-754-contentitem-python/task10.py
+  934  git add .
+  935  git commit -m "function that takes two strings as input, and print the common letters that they share."
+  936  git push
+  937  /bin/python3 /home/user/Documents/work/projects/jhb_21_code_clinics/main.py
+  938  git branch sub_branch
+  939  git checkout sub_branch
+  940  git pull origin sub_branch 
+  941  cd ~/Desktop/
+  942  ls
+  943  cd umuzi/
+  944  ls
+  945  cd code_challenge_task4
+  946  code .
+  947  cd ..
+  948  mkdir code_challenge_task5
+  949  cd code_challenge_task5
+  950  git clone git@github.com:Umuzi-org/Lethukuthula-Shabalala-763-contentitem-python.git
+  951  cd Lethukuthula-Shabalala-763-contentitem-python/
+  952  code .
+  953  cd ..
+  954  mkdir code_challenge_task6
+  955  cd code_challenge_task6
+  956  git clone git@github.com:Umuzi-org/Lethukuthula-Shabalala-758-contentitem-python.git
+  957  cd Lethukuthula-Shabalala-758-contentitem-python/
+  958  code .
+  959  cd ..
+  960  mkdir code_challenge_task7
+  961  cd code_challenge_task7
+  962  git clone git@github.com:Umuzi-org/Lethukuthula-Shabalala-765-contentitem-python.git
+  963  cd Lethukuthula-Shabalala-765-contentitem-python/
+  964  code .
+  965  cd ..
+  966  mkdir code_challenge_task8
+  967  cd code_challenge_task8
+  968  git clone git@github.com:Umuzi-org/Lethukuthula-Shabalala-762-contentitem-python.git
+  969  cd Lethukuthula-Shabalala-762-contentitem-python/
+  970  code .
+  971  cd ..
+  972  mkdir code_challenge_task9
+  973  cd code_challenge_task9
+  974  git clone git@github.com:Umuzi-org/Lethukuthula-Shabalala-761-contentitem-python.git
+  975  cd Lethukuthula-Shabalala-761-contentitem-python/
+  976  code
+  977  code .
+  978  cd ..
+  979  mkdir code_challenge_task10
+  980  cd code_challenge_task10
+  981  git clone git@github.com:Umuzi-org/Lethukuthula-Shabalala-754-contentitem-python.git
+  982  cd Lethukuthula-Shabalala-754-contentitem-python/
+  983  code .
+  984  cd ..
+  985  cd Documents/work/projects/
+  986  git clone git@gitlab.wethinkco.de:jbotha023/jhb_21_code_clinics.git
+  987  cd jhb_21_code_clinics/
+  988  code .
+  989  cd ..
+  990  git switch sub_branch 
+  991  git switch lethu_work 
+  992  git branch -d lethu_work 
+  993  git switch sub_branch 
+  994  git pull origin sub_branch 
+  995  cd Documents/work/projects/
+  996  git clone git@gitlab.wethinkco.de:jbotha023/jhb_21_code_clinics.git
+  997  cd jhb_21_code_clinics/
+  998  code .
+  999  cd ..
+ 1000  git switch sub_branch 
+ 1001  git switch Sam_work 
+ 1002  /bin/python3 /home/user/Documents/work/projects/jhb_21_code_clinics/main.py
+ 1003  /bin/python3 /home/user/Documents/work/projects/jhb_21_code_clinics/src/booking_system/make_booking.py
+ 1004  cd Documents/work/projects/
+ 1005  git clone git@gitlab.wethinkco.de:jbotha023/jhb_21_code_clinics.git
+ 1006  cd jhb_21_code_clinics/
+ 1007  code .
+ 1008  /bin/python3 /home/user/Documents/work/projects/jhb_21_code_clinics/src/booking_system/make_booking.py
+ 1009  /bin/python3 /home/user/Documents/work/projects/jhb_21_code_clinics/main.py
+ 1010  /bin/python3 /home/user/Documents/work/projects/jhb_21_code_clinics/src/booking_system/make_booking.py
+ 1011  git checkout ntokozo_work 
+ 1012  git checkout Sams_work 
+ 1013  git merge ntokozo_work 
+ 1014  pip install prettytable
+ 1015  pip install validate_email
+ 1016  git add .
+ 1017  git commit -m " merging ntokozo's work to my branch"
+ 1018  git push origin Sams_work 
+ 1019  /bin/python3 /home/user/Documents/work/projects/jhb_21_code_clinics/main.py
+ 1020  sign in
+ 1021  sign up
+ 1022  /bin/python3 /home/user/Documents/work/projects/jhb_21_code_clinics/src/authentification/user.py
+ 1023  python3 make booking
+ 1024  /bin/python3 /home/user/Documents/work/projects/jhb_21_code_clinics/src/booking_system/cancel_booking.py
+ 1025  /bin/python3 /home/user/Documents/work/projects/jhb_21_code_clinics/src/booking_system/make_booking.py
+ 1026  /bin/python3 /home/user/Documents/work/projects/jhb_21_code_clinics/main.py
+ 1027  pip install google-api-python-client
+ 1028  python make_booking.py [make booking]
+ 1029  git add .
+ 1030  git commit -m 'lethu mergig'
+ 1031  git merge ntokozo_work 
+ 1032  python3 main.py help
+ 1033  git merge ntokozo_work 
+ 1034  git pull origin Sams_work 
+ 1035  python3 main.py help
+ 1036  git merge ntokozo_work 
+ 1037  git add .
+ 1038  git commit -m 'lethu mergig'
+ 1039  python3 main.py help
+ 1040  python3 main.py sign_in
+ 1041  python3 main.py sign_up
+ 1042  python3 main.py make_booking
+ 1043  ./cc help
+ 1044  python3 main.py help
+ 1045  python3 main.py booked_slots
+ 1046  python3 main.py booking
+ 1047  python3 main.py booked_slot
+ 1048  python3 main.py calendar
+ 1049  python3 main.py volunteer_slot
+ 1050  python3 main.py help
+ 1051  python3 main.py book_slot
+ 1052  python3 main.py help
+ 1053  python3 main.py cancel_booking
+ 1054  python3 main.py book_slot
+ 1055  python3 main.py cancel_booking
+ 1056  python3 main.py book_slot
+ 1057  python3 main.py cancel_booking
+ 1058  pip install pytest
+ 1059  python3 main.py help
+ 1060  python3 main.py cancel_booking
+ 1061  python3 main.py help
+ 1062  python3 main.py booked_slots
+ 1063  volunteered_slots
+ 1064  python3 main.py volunteered_slots
+ 1065  python3 main.py help
+ 1066  python3 main.py calender volunteered_slots
+ 1067  calender booked_slots
+ 1068  python3 main.py calender booked_slots
+ 1069  pip install termcolor
+ 1070  pip install colorama
+ 1071  cd Documents/work/projects/
+ 1072  git clone git@gitlab.wethinkco.de:jbotha023/jhb_21_code_clinics.git
+ 1073  cd jhb_21_code_clinics/
+ 1074  code .
+ 1075  cd ..
+ 1076  git add .
+ 1077  python3 main.py help
+ 1078  python3 main.py book_slot
+ 1079  python3 main.py help
+ 1080  python3 main.py cancel_booking
+ 1081  python3 main.py help
+ 1082  python3 main.py book_slot
+ 1083  python3 main.py help
+ 1084  python3 main.py cancel_booking
+ 1085  python3 main.py help
+ 1086  python3 main help
+ 1087  git commit -m 'added code to make_booking and unittests for make_booking'
+ 1088  git push Sams_work
+ 1089  git push origin Sams_work
+ 1090  git pull origin sub_branch 
+ 1091  git add .
+ 1092  git commit -m 'added code to make_booking and unittests for make_booking'
+ 1093  git push origin Sams_work
+ 1094  git checkout -b 'Sams_work' 'origin/Sams_work'
+ 1095  git fetch origin
+ 1096  git checkout -b 'Sams_work' 'origin/Sams_work'
+ 1097  git push origin 'Sams_work'
+ 1098  python3 main.py help
+ 1099  python3 main.py cancel_booking
+ 1100  pip install bs4
+ 1101  pip install icalendar
+ 1102  python3 main.py help
+ 1103  python3 main.py cancel_booking
+ 1104  git add .
+ 1105  git commit -m"lethu"
+ 1106  git merge ntokozo_work 
+ 1107  python3 main.py help
+ 1108  python3 main.py cancel_booking
+ 1109  python3 main.py book_slot
+ 1110  python3 main.py cancel_booking
+ 1111  mkdir git-basic-exercises
+ 1112  cd git-basic-exercises/
+ 1113  git init
+ 1114  touch README.MD
+ 1115  GIT ADD .
+ 1116  git add .
+ 1117  git commit -m "initial commit"
+ 1118  nano README.MD 
+ 1119  cat README.MD 
+ 1120  git add .
+ 1121  git commit -m "second commit"
+ 1122  nano README.MD 
+ 1123  git add .
+ 1124  git commit -m "third commit"
+ 1125  git log
+ 1126  git checkout a2681dca404427f276ffa8d4c6a9a5e6773e514a
+ 1127  cat README.MD 
+ 1128  git checkout main
+ 1129  git checkout master
+ 1130  cat README.MD 
+ 1131  git branch
+ 1132  git branch milkshake-flavours
+ 1133  git branch
+ 1134  git checkout milkshake-flavours 
+ 1135  git branch
+ 1136  nano milkshakes.md
+ 1137  git add .
+ 1138  git commit -m "added initial flavours"
+ 1139  git checkout master 
+ 1140  git branch history
+ 1141  git checkout history 
+ 1142  git branch
+ 1143  history > history.txt
+ 1144  git add .
+ 1145  git commit -m "added history"
+ 1146  git checkout milkshake-flavours 
+ 1147  git log
+ 1148  nano README.md
+ 1149  git checkout history 
+ 1150  cat README.md
+ 1151  rm README.md
+ 1152  echo "booya" > README.md
+ 1153  cat README.md
+ 1154  git add .
+ 1155  git commit -m "rewrote readme"
+ 1156  git checkout master 
+ 1157  ls
+ 1158  git log
+ 1159  git checkout milkshake-flavours 
+ 1160  ls
+ 1161  git log
+ 1162  nano README.MD 
+ 1163  git checkout milkshake-flavours 
+ 1164  nano milkshakes.md 
+ 1165  nano README.MD 
+ 1166  ls
+ 1167  git log
+ 1168  git add .
+ 1169  git checkot history
+ 1170  nano milkshakes.md 
+ 1171  nano README.MD 
+ 1172  git add .
+ 1173  git commit -m "random readme changes"
+ 1174  git checkout history 
+ 1175  nano history.txt 
+ 1176  git d history
+ 1177  git d history.txt
+ 1178  git -d history.txt
+ 1179  git delete history.txt
+ 1180  cd ..
+ 1181  cd Desktop/umuzi/
+ 1182  mkdir git-basic-exercises
+ 1183  git init
+ 1184  touch README.md
+ 1185  git add .
+ 1186  cls
+ 1187  ls 
+ 1188  Desktop/
+ 1189  cd Desktop/
+ 1190  ls
+ 1191  cd umuzi/
+ 1192  ls
+ 1193  mkdir git-basic-exercises
+ 1194  cd git-basic-exercises/
+ 1195  ls -a
+ 1196  ls
+ 1197  git init
+ 1198  ls -a
+ 1199  git status
+ 1200  touch README.md
+ 1201  ls -a
+ 1202  git status
+ 1203  git log
+ 1204  git add
+ 1205  git add .
+ 1206  git status
+ 1207  git add ..
+ 1208  git status
+ 1209  git rm --cached README.md 
+ 1210  git status
+ 1211  git add .
+ 1212  git commit -m "initial commit"
+ 1213  git log
+ 1214  git config
+ 1215  git setup
+ 1216  git --help
+ 1217  git help git
+ 1218  nano README.md
+ 1219  cat README.md
+ 1220  git status
+ 1221  git add .
+ 1222  git commit -m "second commit"
+ 1223  nano README.md
+ 1224  cat README.md
+ 1225  git add .
+ 1226  git commit -m "third commit"
+ 1227  git log
+ 1228  git checkout
+ 1229  commit 5b5dc5b6ca514feaea6b1c59bef1eae66d3d1366
+ 1230  5b5dc5b6ca514feaea6b1c59bef1eae66d3d1366
+ 1231  commit 5b5dc5b6ca514feaea6b1c59bef1eae66d3d1366
+ 1232  cat README.md
+ 1233  git commit 5b5dc5b6ca514feaea6b1c59bef1eae66d3d1366
+ 1234  commit 5b5dc5b6ca514feaea6b1c59bef1eae66d3d1366
+ 1235  git checkout
+ 1236  commit 5b5dc5b6ca514feaea6b1c59bef1eae66d3d1366
+ 1237  git checkout master
+ 1238  cat README.md
+ 1239  git checkout 5b5dc5b6ca514feaea6b1c59bef1eae66d3d1366
+ 1240  cat README.md
+ 1241  git checkout master
+ 1242  git checkout 5b5dc5b6ca514feaea6b1c59bef1eae66d3d1366
+ 1243  git log
+ 1244  git checkout master
+ 1245  cat README.md
+ 1246  git branch
+ 1247  git branch milkshake-flavours
+ 1248  git branch
+ 1249  git checkout milkshake-flavours
+ 1250  git branch
+ 1251  nano milkshakes.md
+ 1252  git status
+ 1253  git add .
+ 1254  git commit -m "added initial flavours"
+ 1255  git lig
+ 1256  git log
+ 1257  git checkout master
+ 1258  git status
+ 1259  git log
+ 1260  git branch history
+ 1261  git log
+ 1262  git checkout history 
+ 1263  git log
+ 1264  git branch
+ 1265  history > history.txt
+ 1266  git add .
+ 1267  git commit -m "added history"
+ 1268  it log
+ 1269  git log
+ 1270  git checkout milkshake-flavours 
+ 1271  git log
+ 1272  nano README.md
+ 1273  git add .
+ 1274  git commit -m "random readme changes"
+ 1275  git checkout history 
+ 1276  cat README.md 
+ 1277  rm README.md
+ 1278  echo "booya" > README.md
+ 1279  git add .
+ 1280  git commit -m "rewrote readme"
+ 1281  git checkout master 
+ 1282  ls
+ 1283  git log
+ 1284  git checkout milkshake-flavours
+ 1285  ls
+ 1286  git log
+ 1287  git checkout history 
+ 1288  ls
+ 1289  git log
+ 1290  git checkout master 
+ 1291  git merge milkshake-flavours 
+ 1292  ls 
+ 1293  git log
+ 1294  git checkout history 
+ 1295  git log
+ 1296  git checkout milkshake-flavours 
+ 1297  git log
+ 1298  git checkout history 
+ 1299  git merge master 
+ 1300  git log
+ 1301  git checkout main
+ 1302  git checkout master 
+ 1303  git push 
+ 1304  git remote add origin https://github.com/Samantha308/git-basic-exercises.git
+ 1305  git branch -M main
+ 1306  git branch -M master
+ 1307  git push -u origin master
+ 1308  git remote add origin https://github.com/Samantha308/git-basic-exercises.git
+ 1309  [200~git branch -M main~
+ 1310  git branch -M main
+ 1311  git push -u origin main
+ 1312  git log
+ 1313  git push origin milkshake-flavours 
+ 1314  git push origin history
+ 1315  git push history
+ 1316  git push -u origin main
+ 1317  git branch
+ 1318  git log
+ 1319  cd ..
+ 1320  mkdir git-basic-exercises
+ 1321  cd 
+ 1322  cd Desktop/umuzi/
+ 1323  mkdir git-basic-exercises
+ 1324  cd git-basic-exercises/
+ 1325  git init
+ 1326  touch README.md
+ 1327  git add .
+ 1328  git commit -m "initial commit"
+ 1329  nano README.md
+ 1330  cat README.md 
+ 1331  git add .
+ 1332  git commit -m "second commit"
+ 1333  nano README.md 
+ 1334  git add .
+ 1335  git commit -m "third commit"
+ 1336  git log
+ 1337  git checkout 7e8104d5635aacac811534dd2253f2d4e98d59a2
+ 1338  cat README.md 
+ 1339  git checkout master 
+ 1340  cat README.md 
+ 1341  git branch milkshake-flavours
+ 1342  git checkout milkshake-flavours 
+ 1343  nano milkshakes.md
+ 1344  git add .
+ 1345  git commit -m "added initial flavours"
+ 1346  git checkout master 
+ 1347  git branch history
+ 1348  git checkout history 
+ 1349  history > history.txt
